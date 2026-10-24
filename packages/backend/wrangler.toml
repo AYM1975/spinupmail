@@ -43,7 +43,8 @@ id = "2b0a16741ce345a4a177b48bbf2bfc30"
 
 [[r2_buckets]]
 bucket_name = "spinupmail-attachments"
-binding = "R2_BUCKET"
+binding = "ATTACHMENTS_BUCKET
+"
 
 [[send_email]]
 name = "EMAIL"
